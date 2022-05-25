@@ -23,7 +23,7 @@ const NavBar = () => {
         <div className="items">
           <div className="item">
             <LanguageOutlined className="icon" />
-            <div className="langrage">English</div>
+            <div className="language">English</div>
           </div>
           <div className="item">
             <DarkModeOutlined className="icon" />
